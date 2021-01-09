@@ -1,4 +1,4 @@
-### Hi there, I'mVarun
+### Hi there, I'm Varun
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_varuns?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_varuns&screen_name=_varuns)
 
