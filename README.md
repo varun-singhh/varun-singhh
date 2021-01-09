@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/_varuns"><img align="left" alt="varun-singhh | Twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" /></a>
-<a href="https://www.linkedin.com/in/v-varun/"><img align="left" alt="varun-singhh | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" /></a>
-<a href="https://www.instagram.com/_varun_vns/"><img align="left" alt="varun-singhh | Instagram" width="22px" src="https://lh3.googleusercontent.com/proxy/e-IjRq7U3T8iB_sddRaIqYcLC3DYojb_KEHMcz4U0Zkl0jcHJuBJtoaWUQokBqcCeapIar7TiIWINMSEEPTdkUHXVdA-jp1Mqr6BjrJN0h22dAkrAOmFijoTdl9gqp4ZPIU" /></a>
+<a href="https://twitter.com/_varuns"><img align="left" alt="varun-singhh | Twitter" width="22px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Twitter-Splash-715x715.png" /></a>
+<a href="https://www.linkedin.com/in/v-varun/"><img align="left" alt="varun-singhh | Linkedin" width="22px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Linkedin-Splash.png" /></a>
+<a href="https://www.instagram.com/_varun_vns/"><img align="left" alt="varun-singhh | Instagram" width="22px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Instagram-Splash.png" /></a>
 
 <br />
 
