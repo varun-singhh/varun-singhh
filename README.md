@@ -1,4 +1,5 @@
 <img style="justify-content:center;z-index:-1;" src="https://previews.123rf.com/images/blojfo/blojfo1106/blojfo110600036/9844878-world-map-with-binary-code.jpg" />
+<div style="z-index:10;top:10px;">
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
@@ -15,6 +16,7 @@
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
+</div>
 
 - 🔭 I’m currently working on my health and making customers happy
 - 🌱 I’m currently [learning AWS](https://www.swyx.io/writing/hello-aws/)
