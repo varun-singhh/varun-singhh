@@ -1,9 +1,6 @@
-<!--<h3 align="center">
+<h3 align="center">
 ![image](https://previews.123rf.com/images/blojfo/blojfo1106/blojfo110600036/9844878-world-map-with-binary-code.jpg)
-</h3> -->
-
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
-
+</h3>
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
