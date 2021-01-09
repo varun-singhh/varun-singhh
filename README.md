@@ -1,6 +1,4 @@
-<h3 align="center">
-![image](https://previews.123rf.com/images/blojfo/blojfo1106/blojfo110600036/9844878-world-map-with-binary-code.jpg)
-</h3>
+<img style="justify-content:center;z-index:-1;" src="https://previews.123rf.com/images/blojfo/blojfo1106/blojfo110600036/9844878-world-map-with-binary-code.jpg" />
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
