@@ -48,3 +48,6 @@
 - Messenger app using React
 <!-- BLOG-POST-LIST:END -->
 
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=varun-singhh.visitor-badge">
+ <p/>
