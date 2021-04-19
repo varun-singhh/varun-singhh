@@ -12,9 +12,9 @@
 - ⚡ Fun fact: I love to make digital graphics/illustrations and watch TV series
 
 ### Connect with me:
-<a href="https://twitter.com/_varuns"><img align="left" alt="varun-singhh | Twitter" width="50px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Twitter-Splash-715x715.png" /></a>
-<a href="https://www.linkedin.com/in/v-varun/"><img align="left" alt="varun-singhh | Linkedin" width="50px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Linkedin-Splash.png" /></a>
-<a href="https://www.instagram.com/_varun_vns/"><img align="left" alt="varun-singhh | Instagram" width="50px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Instagram-Splash.png" /></a>
+<a href="https://twitter.com/_varuns"><img align="left" alt="varun-singhh | Twitter" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-2110/64/Twitter-01-512.png" /></a>
+<a href="https://www.linkedin.com/in/v-varun/"><img align="left" alt="varun-singhh | Linkedin" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-2110/64/Linked_In-01-512.png" /></a>
+<a href="https://www.instagram.com/_varun_vns/"><img align="left" alt="varun-singhh | Instagram" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-2110/64/Instagram-01-512.png" /></a>
 
 <br /><br/>
 
