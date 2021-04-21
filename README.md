@@ -42,7 +42,7 @@
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- Time-efficient offloading for machine learning tasks between embedded systems and fog nodes.
+- - Diabetic Retinopathy Detection.
 - E- Commerce website with shopping cart hosted on Firebase using react
 - Song playing app similar to spotify using react
 - Messenger app using React
