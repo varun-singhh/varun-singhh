@@ -11,6 +11,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and build something creative and new
 - ⚡ Fun fact: I love to make digital graphics/illustrations and watch TV series
 
+### Portfolio Profile:
+- ⚡ Visit my portfolio <a href="https://varun-profile.netlify.app/"> profile</a>
+
+
 ### Connect with me:
 <a href="https://twitter.com/_varuns"><img align="left" alt="varun-singhh | Twitter" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-2110/64/Twitter-01-512.png" /></a>
 <a href="https://www.linkedin.com/in/v-varun/"><img align="left" alt="varun-singhh | Linkedin" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-2110/64/Linked_In-01-512.png" /></a>
