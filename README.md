@@ -11,8 +11,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and build something creative and new
 - ⚡ Fun fact: I love to make digital graphics/illustrations and watch TV series
 
-### Portfolio Profile:
-- ⚡ Visit my portfolio <a href="https://varun-profile.netlify.app/"> profile</a>
+### ⚡ Portfolio <a href="https://varun-profile.netlify.app/"> Visit Now </a>:
+
 
 
 ### Connect with me:
