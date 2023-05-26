@@ -41,15 +41,4 @@
 <br />
 <br />
 
----
-
-### 📕 Latest Projects
-
-<!-- BLOG-POST-LIST:START -->
-- Diabetic Retinopathy Detection.
-- E- Commerce website with shopping cart hosted on Firebase using react
-- Song playing app similar to spotify using react
-- Messenger app using React
-<!-- BLOG-POST-LIST:END -->
-
 
